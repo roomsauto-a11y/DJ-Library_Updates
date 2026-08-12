@@ -1,0 +1,9 @@
+{
+    "version": "0.15.0", 
+    "download_url": "",
+    "release_notes": [
+        "Ajout du système de mise à jour de DJ Library",
+        "Amélioration du moteur d'analyse",
+        "Corrections et optimisations"
+    ]
+}
