@@ -1,9 +1,9 @@
 {
-    "version": "0.15.0", 
-    "download_url": "https://github.com/roomsauto-a11y/DJ-Library_Updates/releases/download/v0.15.0/DJ-Library-0.15.0.zip",
+    "version": "0.15.1", 
+    "download_url": "https://github.com/roomsauto-a11y/DJ-Library_Updates/releases/download/v0.15.1/DJ-Library-0.15.1.zip",
     "release_notes": [
-        "Ajout du système de mise à jour de DJ Library",
-        "Amélioration du moteur d'analyse",
-        "Corrections et optimisations"
+        "Amélioration du système de mise à jour automatique",
+        "Ajout d'une confirmation aprés installation réussie",
+        "Redémarrage automatique de DJ Library après une mise à jour"
     ]
 }
