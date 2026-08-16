@@ -2,11 +2,11 @@
     "version": "0.15.2", 
     "download_url": "https://github.com/roomsauto-a11y/DJ-Library_Updates/releases/download/v0.15.2/DJ-Library-0.15.2.zip",
     "release_notes": [
-        "Ajout de la compatibilité Windows pour les lecteurs C: , D: , E: , etc."
-        "Conservation de la compatibilité macOS avec /Volumes."
-        "Amélioration de la portabilité du système de mise a jour."
-        "Le dossier de l'application est désormais détecter automatiquement."
-        "Le dossier de sauvegarde est désormais base sur la version actuelle."
-        "Le redémarrage après la mise a jour utilise maintenant le chemin réel de l'application"
+        "Ajout de la compatibilité Windows pour les lecteurs C: , D: , E: , etc,"
+        "Conservation de la compatibilité macOS avec /Volumes,"
+        "Amélioration de la portabilité du système de mise a jour,"
+        "Le dossier de l'application est désormais détecter automatiquement,"
+        "Le dossier de sauvegarde est désormais base sur la version actuelle,"
+        "Le redémarrage après la mise a jour utilise maintenant le chemin réel de l'application,"
     ]
 }
