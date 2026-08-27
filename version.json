@@ -1,12 +1,10 @@
 {
-    "version": "0.15.4",
+    "version": "0.15.5",
     "download_urls": {
-        "macos": "https://github.com/roomsauto-a11y/DJ-Library_Updates/releases/download/v0.15.4/DJ-Library-macOS-0.15.4.zip"
+        "macos": "https://github.com/roomsauto-a11y/DJ-Library_Updates/releases/download/v0.15.5/DJ-Library-macOS-0.15.5.zip"
     },
     "release_notes": [
-        "Correction de l’ouverture de plusieurs fenêtres après une analyse",
-        "Ajout de l’installation automatique des mises à jour sur macOS",
-        "Amélioration du système de création des archives macOS",
-        "Correction de la vérification HTTPS sur macOS"
+        "Mise à jour DJ Library 0.15.5",
+        "Corrections et améliorations de stabilité"
     ]
 }
