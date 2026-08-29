@@ -1,10 +1,15 @@
 {
-    "version": "0.15.5",
+    "version": "0.15.6",
     "download_urls": {
-        "macos": "https://github.com/roomsauto-a11y/DJ-Library_Updates/releases/download/v0.15.5/DJ-Library-macOS-0.15.5.zip"
+        "macos": "https://github.com/roomsauto-a11y/DJ-Library_Updates/releases/download/v0.15.6/DJ-Library-macOS-0.15.6.zip"
     },
     "release_notes": [
-        "Mise à jour DJ Library 0.15.5",
+        "Mise à jour DJ Library 0.15.6",
         "Corrections et améliorations de stabilité"
-    ]
+    ],
+    "delta_urls": {
+        "macos": {
+            "0.15.5": "https://github.com/roomsauto-a11y/DJ-Library_Updates/releases/download/v0.15.6/DJ-Library-macOS-0.15.5-to-0.15.6.delta.zip"
+        }
+    }
 }
